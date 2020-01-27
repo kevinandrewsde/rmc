@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs
+/Sleeper/bin/Debug/netcoreapp3.1
+/Sleeper/obj
+/RemoteCommand/.vs/RemoteCommand
+/RemoteCommand/bin/Debug/netcoreapp3.1
+/RemoteCommand/obj

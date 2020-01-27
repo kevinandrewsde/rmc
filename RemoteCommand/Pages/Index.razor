@@ -1,0 +1,16 @@
+﻿@page "/"
+@using Sleeper
+<div class="container">
+    <div class="row">
+        <button class="btn btn-primary" @onclick="Sleep">Sleep</button>
+    </div>
+</div>
+@code
+{
+
+    private void Sleep()
+    {
+        ApplicationStateHelper.Sleep();
+    }
+
+}
