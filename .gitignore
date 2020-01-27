@@ -8,3 +8,5 @@
 /RemoteCommand/.vs/RemoteCommand
 /RemoteCommand/bin/Debug/netcoreapp3.1
 /RemoteCommand/obj
+/RemoteCommand/bin/Release/netcoreapp3.1
+/Sleeper/bin/Release/netcoreapp3.1
